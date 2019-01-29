@@ -1,3 +1,8 @@
+target
+.settings
+.classpath
+.project
+
 # History files
 .Rhistory
 
@@ -24,5 +29,3 @@ standalone/build/*
 
 # Java compiled files
 /bin
-
-/target/
